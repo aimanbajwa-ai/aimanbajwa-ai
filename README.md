@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aiman 👋
 
-<!--
-**aimanbajwa-ai/aimanbajwa-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 University Student  
+💻 Learning and building with C, Python & Java  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🌱 Currently improving problem-solving and programming skills  
 
-Here are some ideas to get you started:
+## About Me
+- 📚 Studying at university
+- 💡 Interested in AI & ML
+- 💻 Love learning new technologies
+- 🚀 Growing step by step as a developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+- C
+- Python
+- Java
+- Git
+- GitHub
+
+## Currently Learning
+- Data Structures & Algorithms
+- Machine Learning basics
+- More programming projects
+
+## Goals
+✨ Build useful projects  
+✨ Improve coding skills  
+✨ Become an ML Engineer  
+
+## Fun Fact
+☕ Code + Curiosity = Me
